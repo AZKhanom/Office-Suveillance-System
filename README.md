@@ -1,1 +1,2 @@
 # Office-Suveillance-System
+An automated single room advanced security system that is designed for general public use. The security system includes multiple sensors for ensuring the proper detection of intruders. In the absence of the office owner, a buzzer will ring to warn the intruder and a surveillance camera will capture a photo of the intruder’s face. Simultaneously, an email will be sent to notify the owner/occupant of the room about the presence of the intruder. This system can be useful for small office rooms or faculty rooms in schools and universities.
